@@ -1,0 +1,4 @@
+spring:
+  sql:
+    init:
+      mode: never #data.sql파일 자동실행x
